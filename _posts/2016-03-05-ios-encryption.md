@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: AES Encryption in Swift 2.0
 category: tech
-tags: [ 'ios', 'security' ]
+tags: [ 'gist', 'ios', 'security' ]
 ---
 
 Here is a String extension for Swift 2 that encrypts and decrypts the string with the

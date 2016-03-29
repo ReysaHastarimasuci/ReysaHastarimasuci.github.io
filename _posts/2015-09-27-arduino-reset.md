@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: "Arduino Reset Hack "
 category: tech
-tags: [ 'software', 'hardware', 'opensource' ]
+tags: [ 'gist', 'software', 'hardware', 'opensource' ]
 ---
 Arduino is great for hardware prototyping and for hobbyists but hardware runs software and every software once in a while needs magic "self-recovery", which practically is a reboot.
 

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Fingerprint authentication in Swift 2
 category: tech
-tags: [ 'ios', 'security' ]
+tags: [ 'gist', 'ios', 'security' ]
 ---
 
 It's a nice way to protect your app from being accessed by someone that is not the device owner.
