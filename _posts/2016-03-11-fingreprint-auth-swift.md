@@ -6,7 +6,7 @@ category: tech
 tags: [ 'gist', 'ios', 'security' ]
 ---
 
-Update: Disregard the post, just us [this](https://github.com/yankodimitrov/SwiftPasscodeLock) library :smile: 
+Update: Disregard the post, just use [this](https://github.com/yankodimitrov/SwiftPasscodeLock) library :smile: 
 
 It's a nice way to protect your app from being accessed by someone that is not the device owner.
 
