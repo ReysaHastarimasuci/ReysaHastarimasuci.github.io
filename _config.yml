@@ -32,10 +32,10 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 author: "PrimaEputra"
 lang: "en"
-title: "{ Panos Sakkos }"
+title: "{ APRIMA EKA PUTRA }"
 favicon: "/img/favicon.ico"
-description: "Blog of Panos Sakkos, blogging mainly about tech. Opinions expressed are mine."
-keywords: "panos, sakkos, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft, Office Graph, Machine Learning, Databases, jekyll"
+description: "PrimaEputra, blogging mainly about technology. studied at Faculty of Sains and Technology "
+keywords: "primaeputra, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft, Office Graph, Machine Learning, Databases, jekyll"
 
 ################
 # Intro layout #
@@ -84,7 +84,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "Aprima Eka Putra"
 
 ###############
 # Life Events #
@@ -117,7 +117,7 @@ timeline-img: "/img/career/default.jpg"
 # Contact layout #
 ##################
 
-email: "panos.sakkos@protonmail.com"
+email: "primaeputra@yahoo.com"
 
 ##################
 # Social Buttons #
@@ -125,13 +125,13 @@ email: "panos.sakkos@protonmail.com"
 
 social:
   - title: "github"
-    url: "https://github.com/PanosSakkos"
+    url: "https://github.com/aprimaekaputra"
   - title: "linkedin"
-    url: "https://no.linkedin.com/in/PanosSakkos"
+    url: "https://no.linkedin.com/"
   - title: "twitter"
-    url: "https://twitter.com/thepanoss"
+    url: "https://twitter.com/PrimaEputra"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://blockchain.info/address"
   - title: "rss"
     url: "/feed.xml"
 
