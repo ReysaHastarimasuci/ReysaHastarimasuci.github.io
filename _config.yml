@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://aprimaekaputra.github.io"
+url: "https://ReysaHastarimasuci.github.io"
 baseurl: ""
 google-tracking-id: "UA-35880426-3"
 force-https: True
@@ -30,12 +30,12 @@ icon-192p: "/img/web-app/icon-192p.png"
 # HTML Head #
 #############
 
-author: "PrimaEputra"
+author: "ReysaHastarimasuci"
 lang: "en"
-title: "{ APRIMA EKA PUTRA }"
+title: "{ REYSA HASTARIMASUCI }"
 favicon: "/img/favicon.ico"
-description: "PrimaEputra, blogging mainly about technology. studied at Faculty of Sains and Technology "
-keywords: "primaeputra, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft, Office Graph, Machine Learning, Databases, jekyll"
+description: "ReysaHastarimasuci, blogging mainly about technology. student of Information System, Faculty of Sains and Technology "
+keywords: "ReysaHastarimasuci, technology, computer science, WriteRight, Java , CERN, MDCN, Microsoft, Office Graph, Machine Learning, Databases, jekyll"
 
 ################
 # Intro layout #
