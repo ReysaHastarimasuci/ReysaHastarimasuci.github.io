@@ -11,8 +11,7 @@ syntax-highlight: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
+  About: 'about'                          
   Timeline: 'timeline'
   Contact: 'contact'
 
@@ -32,7 +31,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 author: "ReysaHastarimasuci"
 lang: "en"
-title: "{ REYSA HASTARIMASUCI }"
+title: "REYSA HASTARIMASUCI"
 favicon: "/img/favicon.ico"
 description: "ReysaHastarimasuci, blogging mainly about technology. student of Information System, Faculty of Sains and Technology "
 keywords: "ReysaHastarimasuci, technology, computer science, WriteRight, Java , CERN, MDCN, Microsoft, Office Graph, Machine Learning, Databases, jekyll"
