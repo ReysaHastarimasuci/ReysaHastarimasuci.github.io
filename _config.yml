@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://panossakkos.github.io"
+url: "https://aprimaekaputra.github.io"
 baseurl: ""
 google-tracking-id: "UA-35880426-3"
 force-https: True
@@ -30,7 +30,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # HTML Head #
 #############
 
-author: "Panos Sakkos"
+author: "PrimaEputra"
 lang: "en"
 title: "{ Panos Sakkos }"
 favicon: "/img/favicon.ico"
