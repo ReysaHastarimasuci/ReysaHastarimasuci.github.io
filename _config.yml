@@ -42,13 +42,13 @@ keywords: "ReysaHastarimasuci, technology, computer science, WriteRight, Java , 
 
 black-favicon: "/img/black-lab-glass.ico"
 background-img: "../img/opera.jpg"
-me-img: "/img/me.jpg"
+me-img: "/img/eca1.png"
 
 ##############################
 # Color the browser elements #
 ##############################
 color-browser: "#000000"
-apple-status-bar-style: "black"
+apple-status-bar-style: "blue"
 
 ##############################
 # Dynamic Text on the header #
@@ -83,7 +83,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "Aprima Eka Putra"
+disqus-shortname: "Reysa Hastarimasuci"
 
 ###############
 # Life Events #
@@ -116,7 +116,7 @@ timeline-img: "/img/career/default.jpg"
 # Contact layout #
 ##################
 
-email: "primaeputra@yahoo.com"
+email: "reysahastarima@gmail.com"
 
 ##################
 # Social Buttons #
@@ -124,15 +124,14 @@ email: "primaeputra@yahoo.com"
 
 social:
   - title: "github"
-    url: "https://github.com/aprimaekaputra"
+    url: "https://github.com/reysahastarimasuci"
   - title: "linkedin"
     url: "https://no.linkedin.com/"
-  - title: "twitter"
-    url: "https://twitter.com/PrimaEputra"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address"
-  - title: "rss"
-    url: "/feed.xml"
+  - title: "Facebook"
+    url: "https://facebook.com/Reysha Hastarima Suci"
+  - title: "Instagram"
+    url: "https://instagram.com/reysahastarimasuci"
+  
 
 ############
 # 404 page #
