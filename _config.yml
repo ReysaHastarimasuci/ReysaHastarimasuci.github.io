@@ -62,7 +62,7 @@ type-speed: 4 # Default 10
 start-delay: 2000 # Default 200
 delete-delay: 50000 # Default 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Hai I'm Reysa Come join me and let's learn together"
+  - text: "Hai I'm Reysa Come join me and let's learn together" text color: "black"
 
 ########
 # Blog #
@@ -117,7 +117,7 @@ timeline-img: "/img/career/default.jpg"
 ##################
 
 email: "reysahastarima@gmail.com"
-account: "Let's visit the university and my major accounts"
+"Let's visit the university and my major accounts"
 
 ##################
 # Social Buttons #
